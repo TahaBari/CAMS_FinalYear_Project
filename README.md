@@ -1,1 +1,1 @@
-# CAMS_FinalYear_Project
+College Admission Management System (CAMS)
